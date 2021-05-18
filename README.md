@@ -2,7 +2,7 @@
 
 ## I'm PRINCE 😉
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPRINCE301102&count_bg=%2379C83D&title_bg=%230084FF&icon=arduino.svg&icon_color=%2300FF20&title=Stalks&edge_flat=false)](https://hits.seeyouform.com))
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPRINCE301102&count_bg=%2379C83D&title_bg=%230084FF&icon=arduino.svg&icon_color=%2300FF20&title=Stalks&edge_flat=false)](https://hits.seeyoufarm.com))
 
 
 [![My github stats](https://github-readme-stats.vercel.app/api?username=PRINCE301102&show_icons=true&theme=cobalt&count_private=true)](https://github.com/PRINCE301102)
